@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['medicine']
+
+roboflow:
+  workspace: medeye
+  project: medicine_detection-djfke
+  version: 7
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/medeye/medicine_detection-djfke/dataset/7

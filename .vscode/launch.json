@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/HP/AppData/Local/Temp/0b186b04-f17e-4a94-89a4-5515a3c10a37_tesseract-main.zip.a37/tesseract-main",
+      "program": "c:/Users/HP/AppData/Local/Temp/0b186b04-f17e-4a94-89a4-5515a3c10a37_tesseract-main.zip.a37/tesseract-main/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

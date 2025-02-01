@@ -1,0 +1,4 @@
+train: C:\Users\HP\Desktop\MINOR\medicine_detection.v6i.yolov5pytorch\train\images
+val: C:\Users\HP\Desktop\MINOR\medicine_detection.v6i.yolov5pytorch\valid\images
+nc: 1  # Number of classes (adjust this based on your dataset)
+names: ['medicine']  # Class names
